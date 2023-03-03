@@ -1,0 +1,28 @@
+body{
+    color:black;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+a.txtcolor:hover{
+    color:aqua;
+}
+a.txtsize:hover{
+    font-size: 20px;
+
+}
+a.txtbcolor:hover{
+    background-color: chartreuse;
+
+}
+a.txtfont:hover{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+a.txtdeco{
+    text-decoration: none;
+}
+a.txtdeco:hover{
+    text-decoration: underline;
+
+}

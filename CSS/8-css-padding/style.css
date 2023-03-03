@@ -1,0 +1,26 @@
+/* h1{
+    width: 800px;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    border: 1px solid black;
+    margin-left: 30px;
+} */
+h1{
+    padding: 50px 30px 50px 80px;
+    background-color: cornflowerblue;
+}
+h2{
+    padding: 25px;
+    background-color: rgb(7, 81, 219);
+    width: 500px;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+p:not(.large){
+    color: red;
+}
